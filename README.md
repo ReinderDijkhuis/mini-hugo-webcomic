@@ -1,3 +1,5 @@
+Forked from the original mini-hugo-webcomic by AvaLovelace1 for troubleshooting purposes. I'm not an experienced Github user and should not be relied upon not to mess this up. If you want to use mini-hugo-webcomic, go here: https://github.com/AvaLovelace1/mini-hugo-webcomic/
+
 # mini-hugo-webcomic
 
 A minimal, responsive webcomic template created for my comic, *[Academy 118](https://academy118.com)*.
